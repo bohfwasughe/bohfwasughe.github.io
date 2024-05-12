@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohfwasughe.github.io/sitemap.xml
